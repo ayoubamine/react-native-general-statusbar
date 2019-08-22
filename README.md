@@ -1,6 +1,6 @@
 # react-native-general-statusbar
 
-> General status bar color!
+> General StatusBar color for Android and IOS!
 
 ## HOW TO INSTALL ?
 
