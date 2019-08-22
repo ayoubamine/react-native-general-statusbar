@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ayoubamine/general-status-bar-color/issues"
   },
-  "homepage": "https://github.com/ayoubamine/general-status-bar-color#readme"
+  "homepage": "https://github.com/ayoubamine/general-status-bar-color#readme",
+  "dependencies": {
+    "react-native-status-bar-height": "^2.4.0"
+  }
 }
