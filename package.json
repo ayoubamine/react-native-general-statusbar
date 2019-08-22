@@ -1,5 +1,5 @@
 {
-  "name": "general-status-bar-color",
+  "name": "react-native-general-statusbar",
   "version": "1.0.0",
   "description": "General status bar color!",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayoubamine/general-status-bar-color.git"
+    "url": "git+https://github.com/ayoubamine/react-native-general-statusbar.git"
   },
   "keywords": [
     "react-native",
@@ -17,9 +17,9 @@
   "author": "Ayoub AMINE <ayoubamine@parkini.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ayoubamine/general-status-bar-color/issues"
+    "url": "https://github.com/ayoubamine/react-native-general-statusbar/issues"
   },
-  "homepage": "https://github.com/ayoubamine/general-status-bar-color#readme",
+  "homepage": "https://github.com/ayoubamine/react-native-general-statusbar#readme",
   "dependencies": {
     "react-native-status-bar-height": "^2.4.0"
   }
