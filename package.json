@@ -1,0 +1,23 @@
+{
+  "name": "general-status-bar-color",
+  "version": "1.0.0",
+  "description": "General status bar color!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayoubamine/general-status-bar-color.git"
+  },
+  "keywords": [
+    "react-native",
+    "StatusBar"
+  ],
+  "author": "Ayoub AMINE <ayoubamine@parkini.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayoubamine/general-status-bar-color/issues"
+  },
+  "homepage": "https://github.com/ayoubamine/general-status-bar-color#readme"
+}
